@@ -140,3 +140,8 @@ th {
 .main-wrapper {
   margin: 3rem;
 }
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
